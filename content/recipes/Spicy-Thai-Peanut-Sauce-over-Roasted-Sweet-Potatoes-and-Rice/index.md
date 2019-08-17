@@ -12,6 +12,8 @@ authorURL:
 sourceName:
 sourceURL:
 category: Dinner
+cuisine: Asian
+
 tags:
   - rice
   - sweet potatoes
