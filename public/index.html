@@ -8,6 +8,7 @@
     <meta name="keywords" content="recipes">
 
     <title>Mine opskrifter</title>
+    <link rel="manifest" href="/manifest.json">
 
     <link rel="canonical" href="https://trusting-brahmagupta-192d0d.netlify.com/">
     <link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css" integrity="sha384-M86HUGbBFILBBZ9ykMAbT3nVb0+2C7yZlF8X2CiKNpDOQjKroMJqIeGZ/Le8N2Qp" crossorigin="anonymous" />
@@ -150,4 +151,15 @@
 
     
   </body>
+  <script>
+    if ('serviceWorker' in navigator) {
+       console.log("Will the service worker register?");
+       navigator.serviceWorker.register('service-worker.js')
+         .then(function(reg){
+           console.log("Yes, it did.");
+        }).catch(function(err) {
+           console.log("No it didn't. This happened:", err)
+       });
+    }
+   </script>
 </html>
