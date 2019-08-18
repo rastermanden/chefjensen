@@ -3,7 +3,7 @@ layout: recipe
 date: 2019-08-18T11:58:24+02:00
 draft: false    
 title:  "West African Peanut Soup" # The title of your awesome recipe
-image: mage.jpg # Name of image in recipe bundle
+image: image.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
