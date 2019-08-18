@@ -1,0 +1,40 @@
+---
+layout: recipe
+date: 2019-08-18T11:58:24+02:00
+draft: true    
+title:  "West African Peanut Soup" # The title of your awesome recipe
+image: mage.jpg # Name of image in recipe bundle
+imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
+YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
+authorName: # Name of the recipe/article author
+authorURL: # URL of their home website
+sourceName: # Name of the source website
+sourceURL: # Actual URL of the recipe itself
+category: Dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+cuisine: West Africa # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+tags: # You don't have to have 3, feel free to have 10, 1, or none
+  - soup
+yield: 8
+prepTime: 15
+cookTime: 45
+
+ingredients:
+- 6 cups low sodium vegetable broth
+- 1 medium red onion, chopped
+- 2 tablespoons peeled and minced fresh ginger
+- 4 cloves garlic, minced
+- 1 teaspoon salt
+- 1 bunch collard greens (or kale), ribs removed and leaves chopped into 1-inch strips
+- ¾ cup unsalted peanut butter (chunky or smooth)
+- ½ cup tomato paste*
+- Hot sauce, like sriracha (AKA rooster sauce)
+- ¼ cup roughly chopped peanuts, for garnish
+- Cooked brown rice, for serving (optional)
+
+directions:
+- In a medium Dutch oven or stock pot, bring the broth to a boil. Add the onion, ginger, garlic and salt. Cook on medium-low heat for 20 minutes.
+- In a medium-sized, heat-safe mixing bowl, combine the peanut butter and tomato paste, then transfer 1 to 2 cups of the hot stock to the bowl. - Whisk the mixture together until smooth, then pour the peanut mixture back into the soup and mix well.
+- Stir in the collard greens and season the soup with hot sauce to taste.
+- Simmer for about 15 more minutes on medium-low heat, stirring often.
+- Serve over cooked brown rice if you’d like, and top with a sprinkle of chopped peanuts.
+---
