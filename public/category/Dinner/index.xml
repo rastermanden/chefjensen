@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinner on Mine opskrifter</title>
+    <link>https://food.rastermanden.dk/category/Dinner/</link>
+    <description>Recent content in Dinner on Mine opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Aug 2019 10:26:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://food.rastermanden.dk/category/Dinner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creamy Potatoes</title>
+      <link>https://food.rastermanden.dk/recipes/creamy-potatoes/</link>
+      <pubDate>Sun, 18 Aug 2019 10:26:50 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/recipes/creamy-potatoes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stuffed Vegetables</title>
+      <link>https://food.rastermanden.dk/recipes/stuffed-vegetables/</link>
+      <pubDate>Sat, 17 Aug 2019 12:29:08 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/recipes/stuffed-vegetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classic Lasagna</title>
+      <link>https://food.rastermanden.dk/recipes/classic-lasagna/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://food.rastermanden.dk/recipes/classic-lasagna/</guid>
+      <description>You might need a bit more cottage or ricotta cheese, especially if splitting between smaller pans. Also, you will only get two levels deep if you don&amp;rsquo;t have a really deep pan. Our contribution to this recipe comes from Ashley&amp;rsquo;s mother, which is adding a package of spicy Italian sausage to give some additional flavor.</description>
+    </item>
+    
+    <item>
+      <title>Spicy Thai Peanut Sauce over Roasted Sweet Potatoes and Rice</title>
+      <link>https://food.rastermanden.dk/recipes/Spicy-Thai-Peanut-Sauce-over-Roasted-Sweet-Potatoes-and-Rice/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://food.rastermanden.dk/recipes/Spicy-Thai-Peanut-Sauce-over-Roasted-Sweet-Potatoes-and-Rice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asian on Mine opskrifter</title>
+    <link>https://food.rastermanden.dk/cuisine/Asian/</link>
+    <description>Recent content in Asian on Mine opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://food.rastermanden.dk/cuisine/Asian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spicy Thai Peanut Sauce over Roasted Sweet Potatoes and Rice</title>
+      <link>https://food.rastermanden.dk/recipes/Spicy-Thai-Peanut-Sauce-over-Roasted-Sweet-Potatoes-and-Rice/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://food.rastermanden.dk/recipes/Spicy-Thai-Peanut-Sauce-over-Roasted-Sweet-Potatoes-and-Rice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

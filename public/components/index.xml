@@ -2,38 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Components on Mine opskrifter</title>
-    <link>https://trusting-brahmagupta-192d0d.netlify.com/components/</link>
+    <link>https://food.rastermanden.dk/components/</link>
     <description>Recent content in Components on Mine opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2019 11:51:24 +0200</lastBuildDate>
     
-	<atom:link href="https://trusting-brahmagupta-192d0d.netlify.com/components/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://food.rastermanden.dk/components/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Rice and Garnishes</title>
+      <link>https://food.rastermanden.dk/components/rice-and-garnishes/</link>
+      <pubDate>Sat, 17 Aug 2019 11:51:24 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/components/rice-and-garnishes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roasted Vegetables</title>
+      <link>https://food.rastermanden.dk/components/roasted-vegetables/</link>
+      <pubDate>Thu, 06 Jun 2019 20:07:18 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/components/roasted-vegetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spicy Thai Peanut Sauce</title>
+      <link>https://food.rastermanden.dk/components/Spicy-Thai-Peanut-Sauce/</link>
+      <pubDate>Thu, 06 Jun 2019 19:42:17 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/components/Spicy-Thai-Peanut-Sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graham Cracker Crust</title>
-      <link>https://trusting-brahmagupta-192d0d.netlify.com/components/graham-cracker-crust/</link>
+      <link>https://food.rastermanden.dk/components/graham-cracker-crust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-brahmagupta-192d0d.netlify.com/components/graham-cracker-crust/</guid>
+      <guid>https://food.rastermanden.dk/components/graham-cracker-crust/</guid>
       <description>A simple graham cracker crust, perfect for cheesecakes or tarts.</description>
     </item>
     
     <item>
       <title>Red Berry Dessert Topping</title>
-      <link>https://trusting-brahmagupta-192d0d.netlify.com/components/red-berry-dessert-topping/</link>
+      <link>https://food.rastermanden.dk/components/red-berry-dessert-topping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-brahmagupta-192d0d.netlify.com/components/red-berry-dessert-topping/</guid>
+      <guid>https://food.rastermanden.dk/components/red-berry-dessert-topping/</guid>
       <description>A simple mash of berries, perfect for a tart or top of cheesecake.</description>
     </item>
     
     <item>
       <title>Vanilla Custard Filling</title>
-      <link>https://trusting-brahmagupta-192d0d.netlify.com/components/vanilla-custard-filling/</link>
+      <link>https://food.rastermanden.dk/components/vanilla-custard-filling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-brahmagupta-192d0d.netlify.com/components/vanilla-custard-filling/</guid>
+      <guid>https://food.rastermanden.dk/components/vanilla-custard-filling/</guid>
       <description>A simple vanilla custard filling, useful for tarts (or alone by itself in a bowl).</description>
     </item>
     

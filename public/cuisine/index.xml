@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuisine on Mine opskrifter</title>
-    <link>https://trusting-brahmagupta-192d0d.netlify.com/cuisine/</link>
+    <link>https://food.rastermanden.dk/cuisine/</link>
     <description>Recent content in Cuisine on Mine opskrifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 12:29:08 +0200</lastBuildDate>
     
-	<atom:link href="https://trusting-brahmagupta-192d0d.netlify.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://food.rastermanden.dk/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>French</title>
+      <link>https://food.rastermanden.dk/cuisine/French/</link>
+      <pubDate>Sat, 17 Aug 2019 12:29:08 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/cuisine/French/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Italian</title>
-      <link>https://trusting-brahmagupta-192d0d.netlify.com/cuisine/Italian/</link>
+      <link>https://food.rastermanden.dk/cuisine/Italian/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-brahmagupta-192d0d.netlify.com/cuisine/Italian/</guid>
+      <guid>https://food.rastermanden.dk/cuisine/Italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asian</title>
+      <link>https://food.rastermanden.dk/cuisine/Asian/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://food.rastermanden.dk/cuisine/Asian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>american</title>
-      <link>https://trusting-brahmagupta-192d0d.netlify.com/cuisine/american/</link>
+      <link>https://food.rastermanden.dk/cuisine/american/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-brahmagupta-192d0d.netlify.com/cuisine/american/</guid>
+      <guid>https://food.rastermanden.dk/cuisine/american/</guid>
       <description></description>
     </item>
     

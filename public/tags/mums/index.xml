@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mums on Mine opskrifter</title>
+    <link>https://food.rastermanden.dk/tags/mums/</link>
+    <description>Recent content in mums on Mine opskrifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Aug 2019 10:26:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://food.rastermanden.dk/tags/mums/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creamy Potatoes</title>
+      <link>https://food.rastermanden.dk/recipes/creamy-potatoes/</link>
+      <pubDate>Sun, 18 Aug 2019 10:26:50 +0200</pubDate>
+      
+      <guid>https://food.rastermanden.dk/recipes/creamy-potatoes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

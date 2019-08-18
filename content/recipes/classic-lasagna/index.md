@@ -11,7 +11,7 @@ sourceName: "Great Grub, Delicious Treats"
 sourceURL: http://www.greatgrubdelicioustreats.com/classic-lasagna/
 category: Dinner
 cuisine: Italian
-tags:
+tags: 
   - family
 yield: 10
 prepTime: 90
