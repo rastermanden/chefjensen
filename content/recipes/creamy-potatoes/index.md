@@ -20,7 +20,9 @@ cookTime: 60
 
 ingredients:
 - 2 kilo potatoes
+- 3 onions
 - 6 dl cream
+- Gruyère cheese
 - 1 tbs muscat
 - Salt and pepper 
 
@@ -30,5 +32,8 @@ directions:
 - Gently fry onion to when are soft and transparent
 - Put layers og onions and potatoes in dish
 - Mix cream, muscta, salt, and pepper and pour over
+- Top with shredded Gruyère cheese
 - Cook for 1 hour in oven
 ---
+
+The onions make all the difference in thes recipe
