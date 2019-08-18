@@ -36,6 +36,6 @@ directions:
 - Prepare the noodles according to package instructions. While they are boiling, make the sauce.
 - Place the sesame oil, tamari, garlic, ginger, peanut butter, coconut milk, and half the spinach in a food processor and blend for a few seconds, until smooth.
 - Then, bring to simmer in a pot on low heat for a minute or two, until the noodles are ready. Then add those and the remaining fresh baby spinach to the saucepan and carefully toss.
-Place in serving bowls, add a little fresh lime juice, the sesame seeds, and the peanuts.
+- Place in serving bowls, add a little fresh lime juice, the sesame seeds, and the peanuts.
 - Serve with some extra tamari on the side.
 ---
