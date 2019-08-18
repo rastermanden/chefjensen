@@ -11,7 +11,7 @@ authorName:
 authorURL: 
 sourceName:
 sourceURL:
-category: dinner
+category: Dinner
 cuisine: Asian
 
 tags:

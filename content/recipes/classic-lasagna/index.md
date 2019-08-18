@@ -9,10 +9,9 @@ authorName: Terri
 authorURL: www.greatgrubdelicioustreats.com
 sourceName: "Great Grub, Delicious Treats"
 sourceURL: http://www.greatgrubdelicioustreats.com/classic-lasagna/
-category: dinner
+category: Dinner
 cuisine: Italian
 tags:
-  - Italian
   - family
 yield: 10
 prepTime: 90
