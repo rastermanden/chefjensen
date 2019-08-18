@@ -13,7 +13,8 @@ sourceURL: # Actual URL of the recipe itself
 category: Dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: West Africa # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags: # You don't have to have 3, feel free to have 10, 1, or none
-  - soup
+  - Soup
+  - Spicy
 yield: 8
 prepTime: 15
 cookTime: 45
