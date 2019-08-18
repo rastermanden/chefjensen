@@ -10,7 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+category: Dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: French # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - estragon
@@ -19,24 +19,37 @@ prepTime: 15
 cookTime: 45
 
 ingredients:
-- 1 16 oz. box of something
-- 1 12-ounce can something else
-- 3 eggs
-- 1/2 cup unsalted butter
-- 2 cups cheddar cheese, shredded and divided
-- 1 cup mozzarella cheese, shredded
-- 2 tablespoons feta cheese, crumbled
-- 1 cup provolone cheese, cut into small pieces
-- 1/2 cup smoked Gouda cheese, shredded
-- 4 teaspoons salt, divided
-- 2 teaspoons black pepper
+- 6 Small red bell peppers
+- 6 small aubergines
+- 6 small courgettes
+- 6 Green tomatoes
+- 6 Red tomatoes
+- 2 Scallops onion
+- 2 Garlic fed 
+- 1 bundt of basil
+- 1 bundt of mynte
+- 1 bundt of estragon
+- 300 gram pork/beef chopped meat
+- 3 lumps of day old white bread
+- 1 dl cream
+- 3 dl white wine
 
 directions:
-- Preheat oven to 350˚F/180˚C.
-- In a large pot or dutch oven, cook macaroni according to package directions, salting the water with 2 teaspoons of salt. Drain and return to the warm pot.
-- Add butter to warm macaroni and mix until melted. Season with the remaining salt and pepper.
-- Add 1 cup of cheddar, mozzarella, provolone, Gouda, and feta cheese. Mix well.
-- Add eggs and evaporated milk, mix until fully incorporated.
-- Transfer to a 9x13-inch baking dish and top with the remaining cheddar cheese.
-- Bake in a preheated oven for 40–45 minutes, until the top has nicely browned.
+- 
+- Cut of tops og vegetables and put aside
+- Take seeds out of peppers.
+- Take meat out of rest of vegetables.
+- Chop and fry all onions
+- Pour in vegetable meat and cook so it's completeley cooked together
+- Chop herbs
+- Fry meat in separate pan
+- Put meat in vegetables
+- Put bread in vegetables
+- Put chopped herbs in vegetables
+- Put cream in vegetables
+- Mix well and fill vegetables.
+- Pour over white wine
+- Cook for 20 minutes at 180 degrees Celsius
+
+
 ---
