@@ -21,14 +21,14 @@ prepTime: 15
 cookTime: 45
 
 ingredients:
-- 2 sweet potatoes, peeled and sliced into 1 inch long, ½ inch wide chunks
-- 1 red bell pepper, cored, deseeded, and sliced into bite-sized strips
-- about 2 tablespoons coconut oil (or olive oil)
-- ¼ teaspoon cumin powder
-- Sea salt, to taste
+- ½ cup creamy peanut butter
+- ¼ cup reduced-sodium tamari or soy sauce
+- 3 tablespoons apple cider vinegar
+- 2 tablespoons honey or maple syrup
+- 1 teaspoon grated fresh ginger
+- 2 cloves garlic, pressed
+- ¼ teaspoon red pepper flakes
+- 2 tablespoons water
 directions:
-- Preheat the oven to 425 degrees Fahrenheit with a rack in the middle and another rack near the top.
-- Roast the vegetables: On a large, rimmed baking sheet, toss the sweet potato with a generous tablespoon of coconut oil, the cumin and a sprinkle of salt. Arrange them in a single layer, and set aside.
-- On a separate, smaller baking sheet, toss the bell pepper with about 1 teaspoon of coconut oil and a sprinkle of salt. Toss until lightly coated, and arrange them in a single layer.
-- Roast the sweet potatoes on the middle rack for about 35 minutes, tossing halfway, and roast the peppers on the top rack for about 20 minutes, tossing halfway. The vegetables will be tender and caramelized on the edges when they are ready.
+- In a bowl, whisk together the sauce ingredients. If the sauce is too thick or too spicy, whisk in a little more water.
 ---

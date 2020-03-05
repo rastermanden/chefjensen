@@ -21,7 +21,6 @@ cookTime: 45
 ingredients:
 - 1 tablespoon sesame oil (plus extra for frying)
 - 3 1/2 ounces tofu
-- 3 1/2 ounces tofu
 - 1 red chilli, deseeded and chopped
 - 1 handful tenderstem broccoli, chopped into bite-size pieces (about 3 or 4 per stalk)
 - 1 red pepper
@@ -29,7 +28,7 @@ ingredients:
 - 7/8 ounces peanut butter
 - 1 teaspoon maple syrup
 - 1 tablespoon tamari
-- half a Lime
+- Half a Lime
 - 4–6 tablespoons almond milk
 - 1 3/4 ounces uncooked black bean spaghetti
 

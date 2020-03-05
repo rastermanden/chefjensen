@@ -27,5 +27,6 @@ ingredients:
 - Sriracha/rooster sauce on the side (optional)
 directions:
 - Bring a large pot of water to boil.
-- Once the water is boiling, pour in the rice and give it a stir. Boil the rice for 30 minutes, then turn off the heat and drain the rice. -  - - Return the rice to the pot and cover the pot. Let the rice steam that way for 10 minutes. Remove the lid, fluff the rice with a fork and season with salt to taste.
+- Once the water is boiling, pour in the rice and give it a stir. Boil the rice for 30 minutes, then turn off the heat and drain the rice. -
+- Return the rice to the pot and cover the pot. Let the rice steam that way for 10 minutes. Remove the lid, fluff the rice with a fork and season with salt to taste.
 ---

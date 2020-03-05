@@ -24,7 +24,7 @@ cookTime:
 directions:
 - Prepare roasted vegetables
 - Prepare the rice
-- Prepare the peanut suace
+- Prepare the peanut sauce
 - In bowls, divide the rice and roasted vegetables. Drizzle each bowl generously with sauce, and top with a sprinkle of green onions, cilantro and peanuts.
 
 components:

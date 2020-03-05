@@ -31,7 +31,7 @@ directions:
 - Slice onion into thin slices
 - Gently fry onion to when are soft and transparent
 - Put layers og onions and potatoes in dish
-- Mix cream, muscta, salt, and pepper and pour over
+- Mix cream, muscat, salt, and pepper and pour over
 - Top with shredded Gruyère cheese
 - Cook for 1 hour in oven
 ---
